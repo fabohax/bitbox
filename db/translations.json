@@ -1,0 +1,33 @@
+{
+    "en": {
+      "header": {
+        "title": "BITBIN",
+        "searchPlaceholder": "Search for products"
+      }
+    },
+    "es": {
+      "header": {
+        "title": "BITBIN",
+        "searchPlaceholder": "Buscar productos"
+      }
+    },
+    "pt": {
+      "header": {
+        "title": "BITBIN",
+        "searchPlaceholder": "Buscar produtos"
+      }
+    },
+    "tr": {
+      "header": {
+        "title": "BITBIN",
+        "searchPlaceholder": "Ürün ara"
+      }
+    },
+    "ru": {
+      "header": {
+        "title": "BITBIN",
+        "searchPlaceholder": "Поиск продуктов"
+      }
+    }
+  }
+  
