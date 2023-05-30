@@ -1,4 +1,4 @@
-## NextJS Bitcoin Lightning Shop App
+## BITSHOP - NextJS Bitcoin Lightning Shop App
 
 This repository contains a NextJS-based e-commerce application for selling products related to Bitcoin and Lightning Network. The app provides a user-friendly interface to browse and purchase various digital products, including cryptocurrencies, NFTs, and 3D models.
 
@@ -19,4 +19,4 @@ To run the app locally, follow these steps:
 
 Please note that the repository currently contains a sample version of the app. If you are interested in obtaining the full source code or have any questions or suggestions, feel free to contact me at 40230@pm.me.
 
-Enjoy exploring the NextJS Bitcoin Lightning Shop App!
+Enjoy exploring the Bitshop!
