@@ -1,4 +1,4 @@
-## BITSHOP - NextJS Bitcoin Lightning Shop App
+## BITBOX - NextJS Bitcoin Lightning Shop App
 
 This repository contains a NextJS-based e-commerce application for selling products related to Bitcoin and Lightning Network. The app provides a user-friendly interface to browse and purchase various digital products, including cryptocurrencies, NFTs, and 3D models.
 
@@ -11,12 +11,12 @@ Features:
 - Contact page: A dedicated contact page is available for users to get in touch and inquire about the app or request the full source code.
 
 To run the app locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/fabohax/bitshop.git`
-2. Navigate to the project directory: `cd bitshop`
+1. Clone the repository: `git clone https://github.com/fabohax/bitbox.git`
+2. Navigate to the project directory: `cd bitbox`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:3000` to access the app.
 
 Please note that the repository currently contains a sample version of the app. If you are interested in obtaining the full source code or have any questions or suggestions, feel free to contact me at 40230@pm.me.
 
-Enjoy exploring the Bitshop!
+Enjoy exploring BITBOX!
