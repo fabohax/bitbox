@@ -1,8 +1,8 @@
-/*index.js*/
+/*cart.js*/
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 
-export default function Home() {
+export default function Apps() {
   const router = useRouter();
 
   useEffect(() => {
@@ -12,11 +12,11 @@ export default function Home() {
     // Define the supported languages and their corresponding routes
     const supportedLanguages = ['en', 'es', 'pt', 'tr', 'ru'];
     const languageRoutes = {
-      en: '/en',
-      es: '/es',
-      pt: '/pt',
-      tr: '/tr',
-      ru: '/ru',
+      en: '/en/apps',
+      es: '/es/apps',
+      pt: '/pt/apps',
+      tr: '/tr/apps',
+      ru: '/ru/apps',
     };
 
     // Redirect to the corresponding language page if the device language is supported

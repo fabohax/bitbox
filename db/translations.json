@@ -1,33 +1,52 @@
 {
-    "en": {
-      "header": {
-        "title": "BITBIN",
-        "searchPlaceholder": "Search for products"
-      }
+  "en": {
+    "header": {
+      "title": "BITBOX",
+      "searchPlaceholder": "Search for products"
     },
-    "es": {
-      "header": {
-        "title": "BITBIN",
-        "searchPlaceholder": "Buscar productos"
-      }
+    "about": {
+      "title": "What is BITBOX?",
+      "description": "<p>BITBOX is a digital unbanked marketplace! We are a cutting-edge online platform that leverages the power of Bitcoin's Lightning Network to provide fast, secure, and cost-effective transactions for our customers.</p><p>At our store, we believe in the transformative potential of cryptocurrencies and their ability to revolutionize the way we engage in e-commerce. By embracing Bitcoin Lightning as a payment method, we offer a seamless and user-friendly shopping experience, allowing you to make instant purchases with lightning speed.</p><p>Our store features a wide range of products carefully curated to cater to various interests and preferences. Whether you're looking for electronics, fashion, home goods, or more, you'll find an extensive selection of high-quality items from trusted sellers.</p><p>We prioritize customer satisfaction and strive to provide exceptional service at every step. Our knowledgeable and friendly support team is always available to assist you with any inquiries or concerns you may have.</p><p>With our commitment to security and privacy, you can shop with confidence knowing that your transactions are encrypted and your personal information is safeguarded. We adhere to the highest industry standards to ensure a secure shopping environment.</p><p>Join us on this exciting journey into the world of cryptocurrencies and experience the convenience, speed, and freedom of Bitcoin Lightning payments. Start shopping today and unlock a new era of digital commerce!</p>"
+    }
+  },
+  "es": {
+    "header": {
+      "title": "BITBOX",
+      "searchPlaceholder": "Buscar productos"
     },
-    "pt": {
-      "header": {
-        "title": "BITBIN",
-        "searchPlaceholder": "Buscar produtos"
-      }
+    "about": {
+      "title": "¿Qué es BITBOX?",
+      "description": "<p>¡BITBOX es un mercado digital sin bancos! Somos una plataforma en línea de vanguardia que aprovecha el poder de la Lightning Network de Bitcoin para brindar transacciones rápidas, seguras y rentables a nuestros clientes.</p><p>En nuestra tienda, creemos en el potencial transformador de las criptomonedas y su capacidad para revolucionar la forma en que participamos en el comercio electrónico. Al adoptar Bitcoin Lightning como método de pago, ofrecemos una experiencia de compra fluida y fácil de usar, que te permite realizar compras instantáneas a una velocidad sorprendente.</p><p>Nuestra tienda cuenta con una amplia gama de productos cuidadosamente seleccionados para satisfacer diversos intereses y preferencias. Ya sea que busques electrónica, moda, artículos para el hogar o más, encontrarás una amplia selección de artículos de alta calidad de vendedores de confianza.</p><p>La satisfacción del cliente es nuestra prioridad y nos esforzamos por brindar un servicio excepcional en cada paso. Nuestro equipo de soporte amable y experto está siempre disponible para ayudarte con cualquier consulta o inquietud que puedas tener.</p><p>Con nuestro compromiso con la seguridad y la privacidad, puedes comprar con confianza sabiendo que tus transacciones están encriptadas y que tu información personal está protegida. Cumplimos con los más altos estándares de la industria para garantizar un entorno de compra seguro.</p><p>Únete a nosotros en este emocionante viaje al mundo de las criptomonedas y experimenta la comodidad, velocidad y libertad de los pagos con Bitcoin Lightning. ¡Comienza a comprar hoy mismo y desbloquea una nueva era de comercio digital!</p>"
+    }
+  },
+  "pt": {
+    "header": {
+      "title": "BITBOX",
+      "searchPlaceholder": "Buscar produtos"
     },
-    "tr": {
-      "header": {
-        "title": "BITBIN",
-        "searchPlaceholder": "Ürün ara"
-      }
+    "about": {
+      "title": "O que é o BITBOX?",
+      "description": "<p>O BITBOX é um mercado digital sem bancos! Somos uma plataforma online inovadora que aproveita o poder da Lightning Network do Bitcoin para fornecer transações rápidas, seguras e econômicas para nossos clientes.</p><p>Em nossa loja, acreditamos no potencial transformador das criptomoedas e em sua capacidade de revolucionar a forma como nos envolvemos no comércio eletrônico. Ao adotar o Bitcoin Lightning como forma de pagamento, oferecemos uma experiência de compra perfeita e fácil de usar, permitindo que você faça compras instantâneas com velocidade relâmpago.</p><p>Nossa loja apresenta uma ampla variedade de produtos cuidadosamente selecionados para atender a diversos interesses e preferências. Se você está procurando eletrônicos, moda, artigos para o lar ou outros, encontrará uma extensa seleção de itens de alta qualidade de vendedores confiáveis.</p><p>Damos prioridade à satisfação do cliente e nos esforçamos para fornecer um serviço excepcional em cada etapa. Nossa equipe de suporte qualificada e amigável está sempre disponível para ajudá-lo com qualquer dúvida ou preocupação que você possa ter.</p><p>Com nosso compromisso com a segurança e a privacidade, você pode fazer suas compras com confiança, sabendo que suas transações estão criptografadas e suas informações pessoais estão protegidas. Seguimos os mais altos padrões da indústria para garantir um ambiente de compras seguro.</p><p>Junte-se a nós nesta jornada empolgante pelo mundo das criptomoedas e experimente a conveniência, velocidade e liberdade dos pagamentos com Bitcoin Lightning. Comece a fazer compras hoje mesmo e desbloqueie uma nova era de comércio digital!</p>"
+    }
+  },
+  "tr": {
+    "header": {
+      "title": "BITBOX",
+      "searchPlaceholder": "Ürün ara"
     },
-    "ru": {
-      "header": {
-        "title": "BITBIN",
-        "searchPlaceholder": "Поиск продуктов"
-      }
+    "about": {
+      "title": "BITBOX Nedir?",
+      "description": "<p>BITBOX, dijital bir bankasız pazaryeri! Müşterilerimize hızlı, güvenli ve maliyet etkin işlemler sunmak için Bitcoin'in Lightning Network gücünden faydalanan öncü bir çevrimiçi platformuz.</p><p>Mağazamızda, kripto paraların dönüştürücü potansiyeline ve e-ticaretteki rolünü devrimleştirebilme yeteneğine inanıyoruz. Bitcoin Lightning'i bir ödeme yöntemi olarak benimseyerek, anında alımlar yapmanızı sağlayan sorunsuz ve kullanıcı dostu bir alışveriş deneyimi sunuyoruz.</p><p>Mağazamız, çeşitli ilgi ve tercihlere hitap edecek şekilde özenle seçilmiş geniş bir ürün yelpazesine sahiptir. Elektronik, moda, ev eşyaları veya daha fazlasını arıyor olun, güvenilir satıcıların sunduğu yüksek kaliteli ürünlerin geniş bir seçimini bulacaksınız.</p><p>Müşteri memnuniyetine öncelik veriyor ve her adımda olağanüstü hizmet sunmaya çalışıyoruz. Bilgili ve dostane destek ekibimiz her zaman herhangi bir soru veya endişeniz için yardımcı olmaktan mutluluk duyar.</p><p>İşlemlerinizin şifrelendiği ve kişisel bilgilerinizin korunduğu güvenli bir alışveriş ortamında olduğunuzdan emin olarak güvenle alışveriş yapabilirsiniz. En yüksek endüstri standartlarına uygun şekilde hareket ederek güvenli bir alışveriş ortamı sağlıyoruz.</p><p>Kripto para dünyasına bu heyecan verici yolculuğa katılın ve Bitcoin Lightning ödemelerinin sunduğu kolaylık, hız ve özgürlüğü deneyimleyin. Bugün alışverişe başlayın ve dijital ticaretin yeni bir çağını açın!</p>"
+    }
+  },
+  "ru": {
+    "header": {
+      "title": "BITBOX",
+      "searchPlaceholder": "Поиск продуктов"
+    },
+    "about": {
+      "title": "Что такое BITBOX?",
+      "description": "<p>BITBOX - это цифровой маркетплейс без банков! Мы являемся передовой онлайн-платформой, использующей мощь Lightning Network Bitcoin для обеспечения быстрых, безопасных и выгодных транзакций для наших клиентов.</p><p>В нашем магазине мы верим в трансформационный потенциал криптовалют и их способность революционизировать способ взаимодействия в электронной коммерции. Принимая Bitcoin Lightning в качестве способа оплаты, мы предлагаем безупречный и удобный опыт покупок, позволяя вам совершать мгновенные покупки с молниеносной скоростью.</p><p>В нашем магазине представлен широкий ассортимент товаров, тщательно подобранных для различных интересов и предпочтений. Будь то электроника, мода, товары для дома и многое другое, вы найдете обширный выбор высококачественных товаров у надежных продавцов.</p><p>Мы придаем большое значение удовлетворению клиентов и стремимся предоставлять исключительный сервис на каждом этапе. Наша компетентная и дружелюбная служба поддержки всегда готова помочь вам с любыми вопросами или проблемами, которые могут возникнуть.</p><p>С нашим приверженностью безопасности и конфиденциальности вы можете с уверенностью покупать, зная, что ваши транзакции защищены шифрованием, а ваша персональная информация находится под надежной защитой. Мы придерживаемся высочайших отраслевых стандартов для обеспечения безопасной среды для покупок.</p><p>Присоединяйтесь к нам в этом захватывающем путешествии в мир криптовалют и испытайте удобство, скорость и свободу платежей с помощью Bitcoin Lightning. Начните покупки сегодня и откройте новую эру цифровой коммерции!</p>"
     }
   }
-  
+}
