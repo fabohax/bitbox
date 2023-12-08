@@ -9,7 +9,7 @@
    viewBox="0 0 72 72"
    style="enable-background:new 0 0 72 72;"
    xml:space="preserve"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="bitbox.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="5.4898985"
-   inkscape:cx="51.275994"
-   inkscape:cy="36.33947"
+   inkscape:cx="21.767251"
+   inkscape:cy="36.157317"
    inkscape:window-width="1356"
    inkscape:window-height="732"
    inkscape:window-x="0"
@@ -40,12 +40,14 @@
 	.st0{fill:#FFFFFF;}
 </style>
 
-
-<rect
-   style="fill:#ffffff"
-   id="rect477"
-   width="47.223675"
-   height="45.506268"
-   x="12.388163"
-   y="13.246866"
-   ry="10.380571" /></svg>
+<g
+   id="g8"
+   style="fill:#ffffff">
+	
+<circle
+   style="fill:#ffffff;stroke-width:1.26834"
+   id="path328"
+   cx="36"
+   cy="36"
+   r="25.640106" /></g>
+</svg>
