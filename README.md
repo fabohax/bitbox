@@ -1,4 +1,4 @@
-## BITBOX - NextJS Bitcoin Lightning Shop App
+## BITBOX - NextJS Bitcoin Lightning Shop Template
 
 This template contains a NextJS-based e-commerce application for selling digital products using Bitcoin Lightning Network. The app provides a user-friendly interface to browse and purchase various items.
 
