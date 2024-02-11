@@ -1,6 +1,6 @@
 ## BITBOX - NextJS Bitcoin Lightning Shop App
 
-This repository contains a NextJS-based e-commerce application for selling digital products using Bitcoin Lightning Network. The app provides a user-friendly interface to browse and purchase various items.
+This template contains a NextJS-based e-commerce application for selling digital products using Bitcoin Lightning Network. The app provides a user-friendly interface to browse and purchase various items.
 
 Features:
 - Responsive design: The app is built with responsive web design principles, ensuring a seamless experience across different devices and screen sizes.
