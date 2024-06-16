@@ -17,6 +17,4 @@ To run the app locally, follow these steps:
 4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:3000` to access the app.
 
-Please note that the repository currently contains a sample version of the app. If you are interested in obtaining the full source code or have any questions or suggestions, feel free to contact me at 40230@pm.me.
 
-Enjoy exploring BITBOX!
