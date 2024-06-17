@@ -7,7 +7,6 @@ import dynamic from 'next/dynamic';
 import data from '../../db/data.json';
 import Header from './header';
 import Footer from './footer';
-import Sections from './sections';
 
 export default function Home() {
 
@@ -26,7 +25,6 @@ export default function Home() {
   return (
     <div className="container">
       <Header/>
-      <Sections/>
       <main className={`grid ${isGrid ? 'visible' : ''}`}>
         {products.map((product) => (
           <div key={product.id} className="product-item">

@@ -5,7 +5,6 @@ import Image from 'next/image';
 import data from '../../db/data.json';
 import Header from '../../components/header';
 import Footer from '../../components/footer';
-import Sections from '../../components/sections';
 
 export default function Home() {
 
@@ -24,7 +23,6 @@ export default function Home() {
   return (
     <div className="container">
       <Header/>
-      <Sections/>
       <main className={`grid ${isGrid ? 'visible' : ''}`}>
         {products.map((product) => (
           <div key={product.id} className="product-item">
