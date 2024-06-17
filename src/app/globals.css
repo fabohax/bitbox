@@ -24,7 +24,7 @@ body {
 }
 
 .logo{
-  margin-left:1em;
+  margin-left:0em;
 }
 
 .container {
@@ -44,8 +44,6 @@ body {
 .header {
   display: flex;
   width:100%;
-  justify-content: space-between;
-  align-items: center;
   padding: 1em;
 }
 
@@ -323,6 +321,7 @@ h1.head{
   background:#fff;
   color:#000;
   padding:.5em 1em;
+  border-radius:10px;
 }
 
 /*TERMS&PRIVACY*/
@@ -547,6 +546,7 @@ h1.head{
     padding: 1em 1px;
     width: 100%;
     text-align: right;
+    border-radius:10px;
   }
 
   .cartCheck a {

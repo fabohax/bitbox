@@ -47,18 +47,17 @@ const Checkout = () => {
       <div className="popup">
         <div className="popup-content text-center justify-center items-center">
           <strong><span>Order #2305202121</span></strong>
-          <Image src="/qr.svg" className='' width={100} height={100} alt="QR Code" />
+          <div className='mx-auto'><Image src="/qr.svg" width={100} height={100} alt="QR Code" /></div>
           <p>{cartItems.length} item{cartItems.length === 1 ?('') : ('s')} in box.</p>
           <p>To proceed with your order, please make a payment of {satoshis !== null ? satoshis : totalPrice} satoshis to the following Bitcoin Lightning address:</p>
           <div className="lnurl">lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkx6r0wpc8jerfwdnh2um5xccsl09evg</div>
           <form onSubmit={toHome}>
-            <input type="text" placeholder="Email" value={email} onChange={(e) => setEmail(e.target.value)} />
-            <button type="submit" className="submitOrder">
+            <button type="submit" className="submitOrder rounded-md">
               Submit Order
             </button>
           </form>
           <span>
-            By submitting, you accept our <Link href="/terms">Terms of Service</Link> and <Link href="/privacy">Privacy Policy</Link>.
+            By submitting, you accept our <Link href="/terms" className='underline'>Terms of Service</Link> and <Link href="/privacy" className='underline'>Privacy Policy</Link>.
           </span>
         </div>
         <button onClick={f5} className="x">x</button>
